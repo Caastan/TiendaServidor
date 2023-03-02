@@ -12,6 +12,10 @@
    
    <a href="ventas">Ver ventas</a>
    
+   <br><br>
+   
+   <a href="ventaadmin">Ver ventas JSTL</a>
+   
 
 </body>
 </html>

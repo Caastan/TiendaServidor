@@ -23,7 +23,11 @@
    
    
    
-   <a href="carrito">Ver Carrito</a>
+   <a href="primerajstl">Ver Productos en JSTL</a>
+   
+   <br><br>
+   
+   <a href="ventaId">Ver Ventas por JSTL</a>
    
 
 </body>

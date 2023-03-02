@@ -2,6 +2,8 @@ package com.PrimerTrabajo.bbdd;
 import java.io.IOException;
 import java.util.List;
 
+import javax.servlet.ServletException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
@@ -14,8 +16,6 @@ import com.PrimerTrabajo.entidades.usuarios.UsuarioMapper;
 import com.PrimerTrabajo.entidades.usuarios.Usuarios;
 import com.PrimerTrabajo.entidades.ventas.Ventas;
 import com.PrimerTrabajo.entidades.ventas.VentasMapper;
-
-import jakarta.servlet.ServletException;
 
 
 
